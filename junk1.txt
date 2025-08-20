@@ -3,3 +3,4 @@ second
 main third
 b2 first
 b2 second
+b2 third
